@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/sungwonjo/esp-projects/json-rpc-test/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/json-rpc-test.dir/test.c.o -c /home/sungwonjo/esp-projects/json-rpc-test/test.c",
+  "file": "/home/sungwonjo/esp-projects/json-rpc-test/test.c",
+  "output": "CMakeFiles/json-rpc-test.dir/test.c.o"
+},
+{
+  "directory": "/home/sungwonjo/esp-projects/json-rpc-test/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/json-rpc-test.dir/json_rpc.c.o -c /home/sungwonjo/esp-projects/json-rpc-test/json_rpc.c",
+  "file": "/home/sungwonjo/esp-projects/json-rpc-test/json_rpc.c",
+  "output": "CMakeFiles/json-rpc-test.dir/json_rpc.c.o"
+},
+{
+  "directory": "/home/sungwonjo/esp-projects/json-rpc-test/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/json-rpc-test.dir/cJSON/cJSON.c.o -c /home/sungwonjo/esp-projects/json-rpc-test/cJSON/cJSON.c",
+  "file": "/home/sungwonjo/esp-projects/json-rpc-test/cJSON/cJSON.c",
+  "output": "CMakeFiles/json-rpc-test.dir/cJSON/cJSON.c.o"
+}
+]

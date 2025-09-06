@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-cc"
+	BuildStamp="20250906-1019-Experimental"
+	Name="debian-swjo"
+	Generator="ctest-3.31.6"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="debian-swjo"
+	OSRelease="6.12.41+deb13-amd64"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Debian 6.12.41-1 (2025-08-12)"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="183"
+	ModelName="13th Gen Intel(R) Core(TM) i7-13650HX"
+	ProcessorCacheSize="24576"
+	NumberOfLogicalCPU="20"
+	NumberOfPhysicalCPU="14"
+	TotalVirtualMemory="16003"
+	TotalPhysicalMemory="15614"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="4054.16"
+	>
+	<Testing>
+		<StartDateTime>Sep 06 21:58 KST</StartDateTime>
+		<StartTestTime>1757163491</StartTestTime>
+		<TestList>
+			<Test>./test</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test</Name>
+			<Path>.</Path>
+			<FullName>./test</FullName>
+			<FullCommandLine>/home/sungwonjo/esp-projects/json-rpc-test/build/json-rpc-test</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00111169</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/sungwonjo/esp-projects/json-rpc-test/build/json-rpc-test</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Sep 06 21:58 KST</EndDateTime>
+		<EndTestTime>1757163491</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

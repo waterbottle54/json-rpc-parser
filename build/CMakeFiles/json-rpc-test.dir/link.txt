@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--dependency-file=CMakeFiles/json-rpc-test.dir/link.d "CMakeFiles/json-rpc-test.dir/test.c.o" "CMakeFiles/json-rpc-test.dir/json_rpc.c.o" "CMakeFiles/json-rpc-test.dir/cJSON/cJSON.c.o" -o json-rpc-test
