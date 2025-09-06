@@ -1,14 +1,6 @@
 // File: test.c
 // Module: CMake test cases for json_rpc parser
 // Description: Test cases to validate functions in json_rpc module
-// Author: Sungwon Jo
-// Organization: DoubleO
-// Created: 2025-09-06
-// License: MIT License
-// Dependencies: cJSON library
-// NOTEs: 
-// 'result', 'params' should be json object 
-// 'error' (object) must have both 'code' (int) and 'message' (string)
 
 #include <stdio.h>
 #include <stdlib.h>

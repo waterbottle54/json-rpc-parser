@@ -1,18 +1,18 @@
-Start testing: Sep 06 21:58 KST
+Start testing: Sep 06 22:33 KST
 ----------------------------------------------------------
 1/1 Testing: test
 1/1 Test: test
 Command: "/home/sungwonjo/esp-projects/json-rpc-test/build/json-rpc-test"
 Directory: /home/sungwonjo/esp-projects/json-rpc-test/build
-"test" start time: Sep 06 21:58 KST
+"test" start time: Sep 06 22:33 KST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"test" end time: Sep 06 21:58 KST
+"test" end time: Sep 06 22:33 KST
 "test" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Sep 06 21:58 KST
+End testing: Sep 06 22:33 KST

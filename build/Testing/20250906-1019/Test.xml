@@ -22,11 +22,11 @@
 	TotalVirtualMemory="16003"
 	TotalPhysicalMemory="15614"
 	LogicalProcessorsPerPhysical="1"
-	ProcessorClockFrequency="4054.16"
+	ProcessorClockFrequency="4419.17"
 	>
 	<Testing>
-		<StartDateTime>Sep 06 21:58 KST</StartDateTime>
-		<StartTestTime>1757163491</StartTestTime>
+		<StartDateTime>Sep 06 22:33 KST</StartDateTime>
+		<StartTestTime>1757165595</StartTestTime>
 		<TestList>
 			<Test>./test</Test>
 		</TestList>
@@ -37,7 +37,7 @@
 			<FullCommandLine>/home/sungwonjo/esp-projects/json-rpc-test/build/json-rpc-test</FullCommandLine>
 			<Results>
 				<NamedMeasurement type="numeric/double" name="Execution Time">
-					<Value>0.00111169</Value>
+					<Value>0.00136236</Value>
 				</NamedMeasurement>
 				<NamedMeasurement type="numeric/double" name="Processors">
 					<Value>1</Value>
@@ -56,8 +56,8 @@
 				</Measurement>
 			</Results>
 		</Test>
-		<EndDateTime>Sep 06 21:58 KST</EndDateTime>
-		<EndTestTime>1757163491</EndTestTime>
+		<EndDateTime>Sep 06 22:33 KST</EndDateTime>
+		<EndTestTime>1757165595</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

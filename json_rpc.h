@@ -1,7 +1,14 @@
-// NOTE: 
+// File: json_rpc.c
+// Module: JSON-RPC 2.0 Parser
+// Description: Implements JSON parsing utilities for JSON-RPC 2.0 format
+// Author: Sungwon Jo
+// Organization: DoubleO
+// Created: 2025-09-06
+// License: MIT License
+// Dependencies: cJSON library
+// NOTEs: 
 // 'result', 'params' should be json object 
 // 'error' (object) must have both 'code' (int) and 'message' (string)
-// 2025.09.06 swjo
 
 #include <stdio.h>
 #include <stdlib.h>
